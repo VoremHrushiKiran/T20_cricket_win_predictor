@@ -225,6 +225,6 @@ if st.button("Predict Score"):
 
 
 st.markdown(
-    "<br><p style='text-align: center; font-weight: bold; font-size : 20px ; background-color : red'>Developed by Boorla Karthikeya</p>",
+    "<br><p style='text-align: center; font-weight: bold; font-size : 20px ; background-color : green'>Developed by Vorem Hrushi Kiran</p>",
     unsafe_allow_html=True,
 )
